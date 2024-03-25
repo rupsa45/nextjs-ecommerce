@@ -23,7 +23,7 @@ const initailState :Cart ={
         fullName:"",
         address: "",
         city: "",
-        postalCode: "",
+        pin: "",
         country:""
      }
 }
